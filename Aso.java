@@ -3,11 +3,6 @@ class Aso
 {
 	public static void main(String[] args)
 	{
-
-		int c = 10;
-		c = c++;
-		System.out.println("c = " + c);
-		System.out.println("c = " + c);
 		Scanner input = new Scanner(System.in);
 		System.out.println("Slaw, nawakat la chand pit pekhatwa?");
 		int x = input.nextInt();
